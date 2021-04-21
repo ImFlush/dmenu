@@ -22,5 +22,5 @@ Afterwards enter the following command to build and install dmenu
 
 ## Später noch patchen
 - [incremental](https://tools.suckless.org/dmenu/patches/incremental/)
-- [non_blocking_stdin] (https://tools.suckless.org/dmenu/patches/non_blocking_stdin/)
-- [password] (https://tools.suckless.org/dmenu/patches/password/)
+- [non_blocking_stdin](https://tools.suckless.org/dmenu/patches/non_blocking_stdin/)
+- [password](https://tools.suckless.org/dmenu/patches/password/)
